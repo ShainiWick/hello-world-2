@@ -1,4 +1,4 @@
-# hello-world-2
+Write C code to add two numbers?
 
 #include <stdio.h>
 int main()
